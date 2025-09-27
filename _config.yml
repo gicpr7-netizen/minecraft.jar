@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-favicon: logo.png
+favicon: favicon.ico
 logo: logo.png
 title: Minecraft.jar
 description: Archived Minecraft.jar
