@@ -1,3 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
+logo: logo.png
 title: Minecraft.jar
 description: Archived Minecraft.jar
+show_downloads: true
